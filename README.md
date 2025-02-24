@@ -11,16 +11,20 @@ Prompt：我想开发一个基于PHP, MySQL、Bootstrap、ajax、JavaScript的�
     
     **登录页**
     
-    ![image.png](attachment:763754c7-572e-42dd-9b59-a388149a68f5:image.png)
+    ![image](https://github.com/user-attachments/assets/04c52848-5c1a-455d-ad46-2251c9762d69)
+
     
     **任务创建页**
     
-    ![image.png](attachment:2f7d190b-dd10-40de-95d7-fd25e1155740:image.png)
+    ![image](https://github.com/user-attachments/assets/4bf80340-7386-4ae7-b1b4-0222c074f3a5)
+
     
     **文本导入页**
     
-    ![image.png](attachment:a56ed9a3-2381-4cdb-9dd9-d3180553bbdc:image.png)
+    ![image](https://github.com/user-attachments/assets/27785cec-7e4e-4d5a-bb96-689f885cb86c)
+
     
     **任务详情页**
     
-    ![image.png](attachment:d2f88165-44f2-4556-89b5-7d5472256efc:image.png)
+    ![image](https://github.com/user-attachments/assets/392edf8f-e999-4af1-a1bb-b48fde4fb72a)
+
