@@ -1,0 +1,79 @@
+/* Custom styles for the localization tool */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,.05);
+    border: none;
+    margin-bottom: 1.5rem;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,.1);
+}
+
+.table {
+    background: white;
+}
+
+.table th {
+    background: #f8f9fa;
+    border-top: none;
+}
+
+.btn-primary {
+    padding: .5rem 1.5rem;
+}
+
+.alert {
+    margin-bottom: 1.5rem;
+}
+
+/* Status badges */
+.status-badge {
+    padding: .25rem .5rem;
+    border-radius: 4px;
+    font-size: .875rem;
+}
+
+.status-pending {
+    background: #ffeeba;
+    color: #856404;
+}
+
+.status-approved {
+    background: #d4edda;
+    color: #155724;
+}
+
+.status-rejected {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+/* Modal customization */
+.modal-header {
+    background: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.modal-footer {
+    background: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+} 
